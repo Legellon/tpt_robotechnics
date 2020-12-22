@@ -26,7 +26,7 @@ a {
   font-size: 36px;
 }
 .content {
-  padding-top: 80px;
+  padding-top: 160px;
 }
 .login {
   margin-left: auto;
@@ -40,7 +40,7 @@ a {
   font-size: 30px;
 }
 .login-form {
-  padding-top: 50px;
+  padding-top: 10px;
 }
 .input_1 {
   background: var(--main-bg-color);
